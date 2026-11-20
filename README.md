@@ -22,8 +22,8 @@ Logistic regression model identifying customers at risk of churn (AUC 0.857). Fu
 **California Housing Price Prediction** — [github.com/bhattaraisabin16/Housing-Price-Prediction](https://github.com/bhattaraisabin16/Housing-Price-Prediction)
 Comparison of Linear Regression and Random Forest on 20,640 districts (Random Forest: R² 0.807). Median income proved a stronger price predictor than location.
 
-**DCF Valuation Models** — *in progress*
-A 31-company discounted-cash-flow valuation calculator built from SEC filing data, covering ten valuation models (two-stage DCF, reverse DCF, owner earnings, earnings power value, residual income, among others). A long-running project, refined incrementally; repository to be published shortly.
+**DCF Valuation Models** — [github.com/bhattaraisabin16/stock-dcf-models](https://github.com/bhattaraisabin16/stock-dcf-models)
+A 31-company discounted-cash-flow valuation calculator built from SEC filing data, covering eleven valuation models (two-stage DCF, reverse DCF, owner earnings, earnings power value, residual income, among others). Built entirely by Muse, Meta's AI agent, at my direction; a long-running project, refined incrementally.
 
 ## GitHub activity
 

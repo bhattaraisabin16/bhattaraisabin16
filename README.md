@@ -2,9 +2,7 @@
 
 **Data Science graduate student — Louisiana Tech University, graduating May 2027**
 
-I am an MS student in Engineering & Technology Management (Data Science concentration) and a Graduate Assistant at Louisiana Tech. Before graduate school, I worked as a Treasury Dealer at Jyoti Bikash Bank in Nepal, where I built Python/SQL data pipelines covering 120+ branches and liquidity forecasting models that reduced idle cash by 15% and manual processing time by 40%.
-
-My interests are forecasting, machine learning, and financial modelling. I am seeking entry-level Data Scientist, Data Analyst, or Business Analyst roles starting Summer 2027. I am an F1 student, OPT-eligible on graduation, and will require H-1B sponsorship after OPT.
+Data Science master's student at Louisiana Tech (May 2027). Previously a Treasury Dealer in Nepal, building data pipelines and liquidity forecasting models for a bank. Now focused on forecasting, machine learning, and valuation models — seeking Summer 2027 data roles.
 
 ## Skills
 
@@ -23,7 +21,7 @@ Logistic regression model identifying customers at risk of churn (AUC 0.857). Fu
 Comparison of Linear Regression and Random Forest on 20,640 districts (Random Forest: R² 0.807). Median income proved a stronger price predictor than location.
 
 **DCF Valuation Models** — [github.com/bhattaraisabin16/stock-dcf-models](https://github.com/bhattaraisabin16/stock-dcf-models)
-A 31-company discounted-cash-flow valuation calculator built from SEC filing data, covering eleven valuation models (two-stage DCF, reverse DCF, owner earnings, earnings power value, residual income, among others). Built entirely by Muse, Meta's AI agent, at my direction; a long-running project, refined incrementally.
+A 31-company discounted-cash-flow valuation calculator built from SEC filing data, covering eleven valuation models (two-stage DCF, reverse DCF, owner earnings, earnings power value, residual income, among others). Built entirely by Muse, Meta's AI agent, at my direction; a long-running project, refined every night.
 
 ## GitHub activity
 
